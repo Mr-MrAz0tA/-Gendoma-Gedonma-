@@ -1,4 +1,5 @@
 Если вас интересует симуляция с искусственным интеллектом для ролевой игры, то эта вселенная подойдет.
+
 If you’re interested in an AI‑driven simulator for a role‑playing game, then this universe will suit you.
 
 
