@@ -2,9 +2,11 @@
 
 If you’re interested in an AI‑driven simulator for a role‑playing game, then this universe will suit you.
 
+Данная работа лицензирована в соответствии с CC BY-NC-SA 4.0. Чтобы ознакомиться с копией этой лицензии, посетите страницу https://creativecommons.org/licenses/by-nc-sa/4.0/"
 
+This work is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-
+© 2026, by Telegram @Mr_MrAz0tA
 
 ЭНЦИКЛОПЕДИЯ (в ос
 новном, так как здесь нету имён различных ГГ и историй/воин/определённых
